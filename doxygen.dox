@@ -1,0 +1,13 @@
+/**
+ * \mainpage LIBTMX
+ * \section intro Introduction
+ * The library part (libutil/ and libmap/ directories) allow to read, modify and write TMX maps.\n
+ * The engine part (the libviewers/ directory) shows that map using <a href="http://sfml-dev.org/">SFML</a>.\n
+ * The game part (the game/ directory) is a small test.
+ * \section seealso See also
+ * <a href="http://www.mapeditor.org/">Tiled</a> : the software used to create maps in the TMX format.\n
+ * <a href="https://github.com/bjorn/tiled/wiki/TMX-Map-Format">TMX Map Format</a> : explanations of the format.\n
+ * <a href="https://github.com/bjorn/tiled/wiki/Support-for-TMX-maps">Support for TMX maps</a> : other libs supporting the TMX format.\n
+ * <a href="https://github.com/bjorn/tiled/wiki/Games-made-with-Tiled">Games made with Tiled</a> : games using the TMX format.\n
+ * <a href="http://ayumifr.free.fr/sdl/web/">SDL_app</a> : old version of my game, before I use the TMX format.
+ */
